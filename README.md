@@ -7,14 +7,14 @@
 - Location: Alicante, Spain
 
 ## Professional Summary
-Graduate in Business Administration with a Master's degree in Data Science, seeking an opportunity as a Junior Data Scientist or Intern. Possess solid knowledge in programming, data analysis, and machine learning, as well as experience in practical web scraping and data visualization projects.
+Graduate in Business Administration and in the final stretch of completing a Master's degree in Data Science, with only the Master's Thesis remaining. Seeking an opportunity as a Junior Data Scientist or Intern. Possess solid knowledge in programming, data analysis, and machine learning, as well as experience in practical web scraping and data visualization projects.
 
 ## Education
-### Master's in Data Science | 2020 - 2024
+### Master's in Data Science | _2020 - 2024_
 Universitat Oberta de Catalunya (UOC)
 - Key courses: Deep Learning, Text Analysis, Big Data Environment Data Analysis, Advanced Data Mining Models
 
-### Bachelor's in Business Administration | 2014 - 2018
+### Bachelor's in Business Administration | _2014 - 2018_
 University of Alicante (UA)
 
 ## Technical Skills
