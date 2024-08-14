@@ -48,4 +48,4 @@ University of Alicante (UA)
 - Russian: Native
 
 ## Interests
-Data Science, Machine Learning, Business Analytics, Data Visualization, Algorithmic Trading
+Data Science, Machine Learning, Business Analytics, Data Visualization, Algorithmic Trading, motorcycles
