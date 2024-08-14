@@ -2,8 +2,8 @@
 
 ## Contact
 - Email: evgm80@gmail.com
-- LinkedIn: www.linkedin.com/in/evgenymg80
-- GitHub: https://github.com/EvgenyMG
+- [LinkedIn](https://www.linkedin.com/in/evgenymg80)
+- [GitHub](https://github.com/EvgenyMG)
 - Location: Alicante, Spain
 
 ## Professional Summary
