@@ -10,7 +10,7 @@
 Graduate in Business Administration and in the final stretch of completing a Master's degree in Data Science, with only the Master's Thesis remaining. Seeking an opportunity as a Junior Data Scientist or Intern. Possess solid knowledge in programming, data analysis, and machine learning, as well as experience in practical web scraping and data visualization projects.
 
 ## Education
-### Master's in Data Science | _2020 - 2024_
+### Master's in Data Science | _2020 - Present_
 Universitat Oberta de Catalunya (UOC)
 - Key courses: Deep Learning, Text Analysis, Big Data Environment Data Analysis, Advanced Data Mining Models
 
