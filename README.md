@@ -27,6 +27,7 @@ University of Alicante (UA)
 
 ## Featured Projects
 ### Football Data Visualization with D3.js
+- [https://football-viz-01-b459e8897755.herokuapp.com/visualization](https://football-viz-01-b459e8897755.herokuapp.com/visualization)
 - Developed an interactive visualization of a football dataset using D3.js with the assistance of ChatGPT
 - First experience learning and using JavaScript and D3.js from scratch, completing the project in one week with ChatGPT support
 - [Project link](https://github.com/EvgenyMG/football-history)
