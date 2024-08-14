@@ -30,18 +30,18 @@ University of Alicante (UA)
 - [https://football-viz-01-b459e8897755.herokuapp.com/visualization](https://football-viz-01-b459e8897755.herokuapp.com/visualization)
 - Developed an interactive visualization of a football dataset using D3.js with the assistance of ChatGPT
 - First experience learning and using JavaScript and D3.js from scratch, completing the project in one week with ChatGPT support
-- [Project link](https://github.com/EvgenyMG/football-history)
+- [Project link on github](https://github.com/EvgenyMG/football-history)
 
 ### Web Scraping Project (pre-ChatGPT era)
 - Implemented web scraping techniques to collect data from www.booking.com in collaboration with fellow master's student [Pablo Chillerón Beviá](https://github.com/pchilleron)
 - Used libraries including pandas, numpy, beautifulsoup4, and requests
-- [Project link](https://github.com/EvgenyMG/web_scraping)
+- [Project link on github](https://github.com/EvgenyMG/web_scraping)
 
 ### Dataset Analysis (pre-ChatGPT era)
 - Project conducted in collaboration with [Pablo Chillerón Beviá](https://github.com/pchilleron) using R to obtain, clean, and analyze a dataset containing information on over 20,000 recipes from around the world
 - The goal was to analyze beliefs about dietary regimens and relationships between nutritional values, valuable information for ventures in the gastronomy sector
 - Libraries used: dplyr
-- [Project link](https://github.com/EvgenyMG/dataset_analysis)
+- [Project link on github](https://github.com/EvgenyMG/dataset_analysis)
 
 ## Languages
 - Spanish: Native
