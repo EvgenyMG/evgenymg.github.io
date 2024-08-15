@@ -20,7 +20,7 @@ University of Alicante (UA)
 ## Technical Skills
 - Programming Languages: Python, R
 - Big Data: Hadoop, Spark
-- Machine Learning & Deep Learning
+- Machine Learning & Deep Learning: scikit-learn, TensorFlow, Keras
 - Databases: SQL, NoSQL
 - Data Visualization: D3.js, Matplotlib, Seaborn
 - Tools: Git, Jupyter Notebooks
